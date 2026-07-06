@@ -12,13 +12,13 @@
 class Solution {
 public:
     vector<vector<int>>res;
-    void find(TreeNode* root, int target,int cur,vector<int>&ans){
+    void find(TreeNode* root, int target,int cur,vector<int>ans){
         //if(target<0)return;
         if(!root)return;
         if(cur+root->val==target && !root->left && !root->right){
             ans.push_back(root->val);
             res.push_back(ans);
-            ans.pop_back();
+            //ans.pop_back();
             return;
         }
         else if(cur+root->val!=target && !root->left && !root->right){
