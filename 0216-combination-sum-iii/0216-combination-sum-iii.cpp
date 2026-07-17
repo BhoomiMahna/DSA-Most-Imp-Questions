@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>>res;
-    void find(int idx, int cursum,vector<int>ans,int k,int n){
+    void find(int idx, int cursum,vector<int>&ans,int k,int n){
         if(cursum==n && ans.size()==k){
             res.push_back(ans);
             return;
