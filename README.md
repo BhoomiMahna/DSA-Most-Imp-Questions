@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0062-unique-paths) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0062-unique-paths) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Theory
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
