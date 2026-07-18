@@ -129,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0136-single-number) |
 | [0320-generalized-abbreviation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0320-generalized-abbreviation) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
