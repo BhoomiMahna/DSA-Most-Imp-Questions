@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0062-unique-paths) |
+| [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Theory
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0216-combination-sum-iii) |
 | [0502-ipo](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0502-ipo) |
 | [0853-car-fleet](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0853-car-fleet) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 | [0320-generalized-abbreviation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0320-generalized-abbreviation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1268-search-suggestions-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1268-search-suggestions-system) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 | [1268-search-suggestions-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1268-search-suggestions-system) |
 ## Enumeration
 |  |
@@ -160,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
