@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0006-zigzag-conversion](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0006-zigzag-conversion) |
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0320-generalized-abbreviation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0320-generalized-abbreviation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1268-search-suggestions-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1268-search-suggestions-system) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1268-search-suggestions-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1268-search-suggestions-system) |
 ## Enumeration
 |  |
@@ -175,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
