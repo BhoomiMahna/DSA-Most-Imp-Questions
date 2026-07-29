@@ -1,42 +1,20 @@
 class Solution {
 public:
-    class Node{
-        public:
-        Node* children[10];
-        bool eow;
-        Node(){
-            for(int i=0;i<10;i++){
-                children[i]=nullptr;
-            }
-            eow=false;
-        }
-    };
-    Node* root=new Node();
-    void insert(string s){
-        Node* curr=root;
-        for(char c:s){
-            int idx=c-'0';
-            if(curr->children[idx]==nullptr){
-                curr->children[idx]=new Node();
-            }
-            curr=curr->children[idx];
-        }
-        curr->eow=true;
-    }
-    void dfs(Node* node,string curr,vector<int>&ans){
-        if(node->eow)ans.push_back(stoi(curr));
-        for(int i=0;i<=9;i++){
-            if(node->children[i]){
-                dfs(node->children[i],curr+char(i+'0'),ans);
-            }
-        }
-    }
     vector<int> lexicalOrder(int n) {
-        for(int i=1;i<=n;i++){
-            insert(to_string(i));
-        }
         vector<int>ans;
-        dfs(root,"",ans);
+        int curr=1;
+        for(int i=0;i<n;i++){
+            ans.push_back(curr);
+            if(curr*10<=n){
+                curr*=10;
+            }
+            else{
+                while(curr%10==9 || curr==n){
+                    curr/=10;
+                }
+                curr++;
+            }
+        }
         return ans;
     }
 };
