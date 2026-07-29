@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0006-zigzag-conversion) |
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 | [0320-generalized-abbreviation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0320-generalized-abbreviation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
