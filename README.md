@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0486-predict-the-winner) |
 | [1199-minimum-time-to-build-blocks](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1199-minimum-time-to-build-blocks) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
+| [0486-predict-the-winner](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0486-predict-the-winner) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Theory
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0216-combination-sum-iii) |
+| [0486-predict-the-winner](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0502-ipo) |
 | [0616-add-bold-tag-in-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0616-add-bold-tag-in-string) |
 | [0648-replace-words](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0648-replace-words) |
@@ -208,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0616-add-bold-tag-in-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0616-add-bold-tag-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
