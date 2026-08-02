@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0877-stone-game) |
 | [1199-minimum-time-to-build-blocks](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1199-minimum-time-to-build-blocks) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0877-stone-game) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Theory
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0616-add-bold-tag-in-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0616-add-bold-tag-in-string) |
 | [0648-replace-words](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0648-replace-words) |
 | [0853-car-fleet](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0853-car-fleet) |
+| [0877-stone-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0877-stone-game) |
 | [1199-minimum-time-to-build-blocks](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1199-minimum-time-to-build-blocks) |
 | [1219-path-with-maximum-gold](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1260-shift-2d-grid) |
@@ -219,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
