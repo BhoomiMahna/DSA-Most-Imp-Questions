@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3310-remove-methods-from-project](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0386-lexicographical-numbers) |
+| [3310-remove-methods-from-project](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3310-remove-methods-from-project) |
 ## Design
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0877-stone-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
