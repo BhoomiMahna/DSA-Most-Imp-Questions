@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0320-generalized-abbreviation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0320-generalized-abbreviation) |
 | [0616-add-bold-tag-in-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0616-add-bold-tag-in-string) |
 | [0648-replace-words](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0676-implement-magic-dictionary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1268-search-suggestions-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1268-search-suggestions-system) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 | [0616-add-bold-tag-in-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0616-add-bold-tag-in-string) |
 | [0648-replace-words](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0676-implement-magic-dictionary) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0386-lexicographical-numbers](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0386-lexicographical-numbers) |
 | [0616-add-bold-tag-in-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0616-add-bold-tag-in-string) |
 | [0648-replace-words](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0676-implement-magic-dictionary) |
 | [1268-search-suggestions-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1268-search-suggestions-system) |
 ## Enumeration
 |  |
@@ -215,11 +218,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0386-lexicographical-numbers) |
+| [0676-implement-magic-dictionary](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0676-implement-magic-dictionary) |
 | [3310-remove-methods-from-project](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3310-remove-methods-from-project) |
 ## Design
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0676-implement-magic-dictionary) |
 ## String Matching
 |  |
 | ------- |
