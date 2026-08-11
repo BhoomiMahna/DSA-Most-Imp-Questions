@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3731-find-missing-elements) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0853-car-fleet) |
 | [1268-search-suggestions-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3731-find-missing-elements) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0648-replace-words](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0676-implement-magic-dictionary) |
 | [1166-design-file-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1166-design-file-system) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
