@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0136-single-number) |
 | [0320-generalized-abbreviation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0320-generalized-abbreviation) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
 |  |
 | ------- |
