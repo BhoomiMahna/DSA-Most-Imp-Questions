@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1140-stone-game-ii) |
 | [1199-minimum-time-to-build-blocks](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1199-minimum-time-to-build-blocks) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0502-ipo) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1199-minimum-time-to-build-blocks](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1199-minimum-time-to-build-blocks) |
+| [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0692-top-k-frequent-words) |
+| [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -282,10 +287,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -303,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
