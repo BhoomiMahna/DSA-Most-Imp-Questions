@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0216-combination-sum-iii) |
+| [0228-summary-ranges](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0228-summary-ranges) |
 | [0486-predict-the-winner](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0502-ipo) |
 | [0616-add-bold-tag-in-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0616-add-bold-tag-in-string) |
