@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1219-path-with-maximum-gold](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1268-search-suggestions-system) |
+| [1386-cinema-seat-allocation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1563-stone-game-v](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1563-stone-game-v) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0502-ipo) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1199-minimum-time-to-build-blocks](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1199-minimum-time-to-build-blocks) |
+| [1386-cinema-seat-allocation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0720-longest-word-in-dictionary) |
 | [1166-design-file-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1166-design-file-system) |
+| [1386-cinema-seat-allocation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0136-single-number) |
 | [0320-generalized-abbreviation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0320-generalized-abbreviation) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1386-cinema-seat-allocation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
 |  |
