@@ -1,51 +1,52 @@
 class Solution {
 public:
+    string ans = "";
+
+    bool backtrack(string &s, string &target, vector<int>& freq, int idx) {
+
+        if(idx == target.size()) {
+            return false;
+        }
+        int x = target[idx] - 'a';
+        if(freq[x] > 0) {
+            freq[x]--;
+
+            if(backtrack(s, target, freq, idx + 1))
+                return true;
+
+            freq[x]++;
+        }
+        for(int j = x + 1; j < 26; j++) {
+
+            if(freq[j] > 0) {
+
+                ans = target.substr(0, idx);
+                ans += char('a' + j);
+
+                freq[j]--;
+                for(int k = 0; k < 26; k++) {
+                    while(freq[k] > 0) {
+                        ans += char('a' + k);
+                        freq[k]--;
+                    }
+                }
+
+                return true;
+            }
+        }
+
+        return false;
+    }
+
     string lexGreaterPermutation(string s, string target) {
-        int n = s.size();
-        vector<int> cnt(26, 0);
 
-        for (char c : s) {
-            cnt[c - 'a']++;
-        }
-        for (int i = n - 1; i >= 0; i--) {
+        vector<int> freq(26, 0);
 
-            vector<int> remain = cnt;
-            bool possible = true;
+        for(char c : s)
+            freq[c - 'a']++;
 
-            for (int j = 0; j < i; j++) {
-                int x = target[j] - 'a';
+        backtrack(s, target, freq, 0);
 
-                if (remain[x] == 0) {
-                    possible = false;
-                    break;
-                }
-
-                remain[x]--;
-            }
-
-            if (!possible)
-                continue;
-            int targetChar = target[i] - 'a';
-
-            for (int c = targetChar + 1; c < 26; c++) {
-
-                if (remain[c] == 0)
-                    continue;
-
-                string ans = target.substr(0, i);
-
-                ans += char('a' + c);
-
-                remain[c]--;
-
-                for (int x = 0; x < 26; x++) {
-                    ans.append(remain[x], char('a' + x));
-                }
-
-                return ans;
-            }
-        }
-
-        return "";
+        return ans;
     }
 };
