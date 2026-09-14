@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1140-stone-game-ii) |
 | [1199-minimum-time-to-build-blocks](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1199-minimum-time-to-build-blocks) |
@@ -367,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
