@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1563-stone-game-v](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Graph Theory
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1166-design-file-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1166-design-file-system) |
 | [1268-search-suggestions-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1268-search-suggestions-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
