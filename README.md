@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3471-find-the-largest-almost-missing-integer](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
