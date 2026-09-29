@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1563-stone-game-v](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1219-path-with-maximum-gold](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0836-rectangle-overlap](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
