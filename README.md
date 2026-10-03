@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0853-car-fleet](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -405,5 +408,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
