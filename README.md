@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0502-ipo](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0502-ipo) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1199-minimum-time-to-build-blocks](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1199-minimum-time-to-build-blocks) |
 | [1386-cinema-seat-allocation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1386-cinema-seat-allocation) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0720-longest-word-in-dictionary) |
 | [0856-score-of-parentheses](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1166-design-file-system](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1166-design-file-system) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0853-car-fleet](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -412,5 +415,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
