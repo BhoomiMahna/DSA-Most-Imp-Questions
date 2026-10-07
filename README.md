@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0097-interleaving-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0301-remove-invalid-parentheses](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0320-generalized-abbreviation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0320-generalized-abbreviation) |
 | [0616-add-bold-tag-in-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0616-add-bold-tag-in-string) |
 | [0648-replace-words](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0648-replace-words) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0320-generalized-abbreviation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0320-generalized-abbreviation) |
 | [1219-path-with-maximum-gold](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1219-path-with-maximum-gold) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Minimax
