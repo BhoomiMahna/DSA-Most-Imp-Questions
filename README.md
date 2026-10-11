@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
