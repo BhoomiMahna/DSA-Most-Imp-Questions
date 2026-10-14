@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0648-replace-words](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0720-longest-word-in-dictionary) |
+| [0832-flipping-an-image](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1140-stone-game-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0832-flipping-an-image) |
 | [1219-path-with-maximum-gold](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0832-flipping-an-image) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0136-single-number) |
 | [0320-generalized-abbreviation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0320-generalized-abbreviation) |
+| [0832-flipping-an-image](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0832-flipping-an-image) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
