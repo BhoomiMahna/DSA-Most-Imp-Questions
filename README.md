@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1199-minimum-time-to-build-blocks](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1199-minimum-time-to-build-blocks) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1563-stone-game-v](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1872-stone-game-viii) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
 |  |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -363,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0139-word-break) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -454,4 +460,24 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
