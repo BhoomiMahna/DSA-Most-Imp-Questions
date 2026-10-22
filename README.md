@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3731-find-missing-elements](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3903-smallest-stable-index-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
