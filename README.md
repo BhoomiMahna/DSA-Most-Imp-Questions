@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1872-stone-game-viii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2409-count-days-spent-together) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
