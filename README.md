@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1535-find-the-winner-of-an-array-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3597-partition-string) |
