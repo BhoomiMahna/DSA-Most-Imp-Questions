@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2089-find-target-indices-after-sorting-array](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
