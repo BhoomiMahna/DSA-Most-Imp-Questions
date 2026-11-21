@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0386-lexicographical-numbers](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0386-lexicographical-numbers) |
 | [0676-implement-magic-dictionary](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/0676-implement-magic-dictionary) |
 | [3310-remove-methods-from-project](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Design
 |  |
 | ------- |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BhoomiMahna/DSA-Most-Imp-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
